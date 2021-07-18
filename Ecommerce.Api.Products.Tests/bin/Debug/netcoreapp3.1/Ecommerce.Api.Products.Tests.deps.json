@@ -434,6 +434,7 @@
           }
         }
       },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.10.8": {},
       "Newtonsoft.Json/9.0.1": {
         "dependencies": {
           "Microsoft.CSharp": "4.7.0",
@@ -842,7 +843,8 @@
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
           "Microsoft.EntityFrameworkCore": "5.0.7",
-          "Microsoft.EntityFrameworkCore.InMemory": "5.0.7"
+          "Microsoft.EntityFrameworkCore.InMemory": "5.0.7",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.10.8"
         },
         "runtime": {
           "ECommerce.Api.Products.dll": {}
@@ -1009,6 +1011,13 @@
       "sha512": "sha512-ytGymboQIvjNX5pLC0yp/Bz9sGDHqSnLQgBRtd4VrqOUgKmmcfxMYZ6p0TBZgAT1oijdC6xqUZ7rl8mbaaXTJw==",
       "path": "microsoft.testplatform.testhost/16.5.0",
       "hashPath": "microsoft.testplatform.testhost.16.5.0.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.10.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LXlwvlXetgFg2sqsLCzi+Kd+nV78VrRzy9u6nKU05yx9tcsF9BcLqL/+vtj01Z7RPhp0U8D4Px/bHbyMR9Ddjg==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.10.8",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
     },
     "Newtonsoft.Json/9.0.1": {
       "type": "package",

@@ -1,13 +1,11 @@
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\ECommerce.Api.Customers.exe
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\ECommerce.Api.Customers.deps.json
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\ECommerce.Api.Customers.runtimeconfig.json
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\ECommerce.Api.Customers.runtimeconfig.dev.json
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\ECommerce.Api.Customers.dll
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\ECommerce.Api.Customers.pdb
-D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.csprojAssemblyReference.cache
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.AssemblyInfoInputs.cache
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.AssemblyInfo.cs
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.RazorTargetAssemblyInfo.cache
@@ -33,5 +31,7 @@ D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\EC
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.csproj.AssemblyReference.cache
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.csproj.CoreCompileInputs.cache
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\ECommerce.Api.Customers.MvcApplicationPartsAssemblyInfo.cache
+D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Customers\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.Api.Customers.styles.css

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sSI7sgEP+q3ScHXrb2x149E4TfmFS8RCQW3nip5hWTakog8tM6m+/a+nYnA2RGyZvWoAtq4p5QkAUYhNGZCAYA==",
+  "dgSpecHash": "sjrnfSnIvtmxjlE3R2ll3suxrZ1qOvfExrsSwEmUBSb27EOcTkBKHb7ivds9T/GufEnslE9lmExOxBfftTcJgw==",
   "success": true,
   "projectFilePath": "D:\\Misc\\AZMServices\\Ecommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "C:\\Users\\sarveshc\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\sarveshc\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\sarveshc\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\sarveshc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
     "C:\\Users\\sarveshc\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
     "C:\\Users\\sarveshc\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
     "C:\\Users\\sarveshc\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",

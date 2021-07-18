@@ -1,13 +1,11 @@
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.exe
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.deps.json
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.runtimeconfig.json
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.runtimeconfig.dev.json
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.dll
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\ECommerce.Api.Orders.pdb
-D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csprojAssemblyReference.cache
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.AssemblyInfoInputs.cache
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.AssemblyInfo.cs
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.RazorTargetAssemblyInfo.cache
@@ -33,5 +31,7 @@ D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\EComm
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.AssemblyReference.cache
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.csproj.CoreCompileInputs.cache
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\ECommerce.Api.Orders.MvcApplicationPartsAssemblyInfo.cache
+D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Orders\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.Api.Orders.styles.css

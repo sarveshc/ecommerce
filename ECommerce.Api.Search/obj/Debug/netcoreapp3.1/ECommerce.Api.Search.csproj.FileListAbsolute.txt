@@ -1,13 +1,11 @@
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.exe
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.deps.json
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.json
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.dev.json
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
-D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csprojAssemblyReference.cache
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfoInputs.cache
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfo.cs
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.RazorTargetAssemblyInfo.cache
@@ -37,5 +35,7 @@ D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Micro
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.dll
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.AssemblyReference.cache
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CoreCompileInputs.cache
 D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.MvcApplicationPartsAssemblyInfo.cache
+D:\Misc\AZMServices\Ecommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.Api.Search.styles.css
